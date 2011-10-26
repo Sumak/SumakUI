@@ -1,0 +1,11 @@
+﻿## Interface: 30300
+## Title: |cffFF0000SumakPanels|r
+## Title-ruRU: |cFF0000FF SumakPanels|r
+## Notes: "SumakPanels"
+## Notes-ruRU: "SumakPanels"
+## Author: Sumak
+## Version: $Version: 0.1 $
+## X-Category: ХЗ
+## X-License: GPL v2 or later
+## X-eMail: sumak.serge.m@gmail.com
+SumakPanels.lua
