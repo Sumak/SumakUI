@@ -8,4 +8,9 @@
 ## X-Category: ХЗ
 ## X-License: GPL v2 or later
 ## X-eMail: sumak.serge.m@gmail.com
-SumakPanels.lua
+
+ 
+core\init.lua
+media\medias.lua
+config\config.lua
+##SumakPanels.lua
