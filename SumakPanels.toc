@@ -9,6 +9,7 @@
 ## X-License: GPL v2 or later
 ## X-eMail: sumak.serge.m@gmail.com
 
+modules\variables.lua
 modules\reloadui.lua 
 #core\init.lua
 config\config.lua
