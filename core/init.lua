@@ -2,7 +2,7 @@
 -- initiation of SumakPanels
 ----------------------------------------------------------------
 -- including system
-local addon, engine = ...
+addon, engine = ...
 engine[1] = {} -- FCV, functions, constants, variables
 engine[2] = {} -- CONF, config
 engine[3] = {} -- LOC, localization
@@ -17,4 +17,4 @@ SumakPanels = engine -- Allow other addons to use Engine
 --	local T, C, L = unpack(SumakUI)
 ---------------------------------------------------------------------------------
 
-local FCV, CONF, LOC = unpack(select(2, ...))
+FCV, CONF, LOC = unpack(select(2, ...))
