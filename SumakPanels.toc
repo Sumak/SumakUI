@@ -9,8 +9,9 @@
 ## X-License: GPL v2 or later
 ## X-eMail: sumak.serge.m@gmail.com
 
- 
-core\init.lua
-media\medias.lua
+modules\variables.lua
+modules\reloadui.lua 
+#core\init.lua
 config\config.lua
+media\media.lua
 ##SumakPanels.lua
