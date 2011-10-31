@@ -11,7 +11,7 @@
 
 modules\variables.lua
 modules\reloadui.lua 
-#core\init.lua
 config\config.lua
 media\media.lua
-##SumakPanels.lua
+SumakPanels.lua
+temp\panels.lua
